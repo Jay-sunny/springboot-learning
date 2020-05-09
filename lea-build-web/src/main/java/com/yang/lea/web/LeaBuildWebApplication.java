@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @author Yang
  * @version 1.0
  * @date 2020/5/9 18:05
- * @description
+ * @description LeaBuildWebApplication启动类
  */
 @SpringBootApplication
 public class LeaBuildWebApplication {
