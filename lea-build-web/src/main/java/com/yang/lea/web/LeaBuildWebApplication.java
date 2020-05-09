@@ -10,8 +10,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @description
  */
 @SpringBootApplication
-public class LeaWebApplication {
+public class LeaBuildWebApplication {
     public static void main(String[] args) {
-        SpringApplication.run(LeaWebApplication.class, args);
+        SpringApplication.run(LeaBuildWebApplication.class, args);
     }
 }
