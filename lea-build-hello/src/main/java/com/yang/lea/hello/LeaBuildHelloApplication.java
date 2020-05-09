@@ -13,8 +13,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * 注解：@ComponentScan 表示进行包扫描。
  */
 @SpringBootApplication
-public class LeaHelloApplication {
+public class LeaBuildHelloApplication {
     public static void main(String[] args) {
-        SpringApplication.run(LeaHelloApplication.class, args);
+        SpringApplication.run(LeaBuildHelloApplication.class, args);
     }
 }

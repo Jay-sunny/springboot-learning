@@ -28,6 +28,7 @@
     <!--springboot-learning相关模块-->
     <modules>
         <module>lea-build-hello</module>
+        <module>lea-build-web</module>
     </modules>
 
 </project>
