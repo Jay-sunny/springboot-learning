@@ -5,20 +5,15 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <artifactId>springboot-learning</artifactId>
         <groupId>com.yang</groupId>
+        <artifactId>springboot-learning</artifactId>
         <version>1.0.0</version>
     </parent>
 
     <groupId>com.yang</groupId>
     <artifactId>lea-build-hello</artifactId>
     <name>lea-build-hello</name>
-    <description>Lea-Build-Hello project for Spring Boot</description>
-
-    <!--Java版本-->
-    <properties>
-        <java.version>1.8</java.version>
-    </properties>
+    <description>lea-build-hello project for Spring Boot</description>
 
     <dependencies>
         <dependency>
